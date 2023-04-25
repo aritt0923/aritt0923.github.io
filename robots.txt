@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aritt0923.github.io/Users/andrewrittenhouse/Documents/digital_portfolio/aritt0923.github.io//sitemap.xml
+Sitemap: https://aritt0923.github.io/sitemap.xml
