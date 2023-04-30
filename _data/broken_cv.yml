@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Andy Rittenhouse
+    - name: Date of Birth
+      value: 23 September
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor's of Science, Computer Science
+      institution: University of Colorado, Boulder
+      year: 2023
+      description:
+        - Learning Assistant, Data Structures
+        - Course Assistant, Algorithms 
+        - title: Senior Capstone Team Lead, Trimble Autonomy
+          contents:
+            - Researched and developed a multi-radar odometry algorithm in Python for autonomous construction machinery, using least-squares linear
+regression and RANSAC outlier rejection.
+            - Lead weekly team meetings, records meeting minutes, published weekly project status updates, maintained a central project planning
+document, and assigned tasks to project team members.
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Software Engineer (Intern)
+      institution: Scientific Applications and Research Associates (SARA)
+      year: Summer 2022
+      description:
+        - Implemented critical bug-fixes in C++ for the Shielding Effectiveness Automated Monitoring System (SEAMS)
+        - Re-wrote an out-of-date PERL program in Python, greatly improving modularity, readability, and maintainability.
+        - title: Developed a proof-of-concept MS-SQL Server database for large-scale EMP test data and wrote a well-documented Python program to
+migrate existing data from text files to the database.
+          contents:
+            - Presented the Python program and SQL Server DB to a team of engineers, reviewing program functionality and enabling the team to
+implement the database at scale.
+
+    - title: Non-Commissioned Officer in Charge, Commander's Action Group
+      institution: United States Air Force, Joint Base Andrews
+      year: 2017-2018
+      description:
+        - Managed Wing awards program operations and communications, ensuring award announcements and nominations were advertised and
+processed appropriately.
+        - Directed base Department of Defense Special Observances, organizing diversity and inclusion initiatives for observances including Black
+History Month, Hispanic Heritage Month, and LGBTQ Pride month.
+        - Owned Wing Strategic Calendar, advising 11 WG/CC and de-conflicting all strategic events. Planned and constructed quarterly 11th Wing
+Commander's Calls for two thousand attending Airmen
+        - Designed official 11th Wing Mission Brief, prepared 11th Wing Commander to brief the Chief of the Indian Air Force and 40 staff.
+        - Arranged 70th Air Force Birthday Week staffing for three major events, including an air power demonstration attended by POTUS.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
