@@ -7,12 +7,12 @@ importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Trimble produces industry leading autonomous machinery solutions for agriculture and heavy industry. These products use a range of technologies, including GNSS and radar, to navigate complex physical environments without the need for human intervention. Currently, Trimble offers a suite of technologies that enable the autonomous operation of Dynapack soil compactor. This compactor is equipped with GNSS, used to locate the machine, as well as radar, which is used for collision detection. Occasionally, GNSS signal is interrupted for brief periods of time and the coordinate position of the compactor is lost. As a result, the compactor must cease operation until GNSS signal is recovered.
+
+However, the compactor is also equipped with six radar sensors, as shown in the image below, which are used by the machine to detect and avoid obstacles. Our team was tasked with developing a redundant odometry solution using the data from these radars so that the machine might continue operation during brief periods of GNSS signal loss. 
 
 
-
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/radar_pos.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -27,6 +27,7 @@ Make your photos 1/3, 2/3, or full width.
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/radar_pos.png" title="example image" class="img-fluid rounded z-depth-0" %}
