@@ -17,8 +17,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Andy Rittenhouse and I will be graduating this May from the University of Colorado,
+Boulder, with a bachelors of science degree in computer science. Prior to my studies at CU
+Boulder, I spent six years in the Air Force, where I guarded both nuclear weapons and the
+President of the United States before receiving an honorable discharge at the rank of Staff
+Sergeant. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my time at CU I have cultivated a deep knowledge of computer science fundamentals,
+completing graduate level coursework in theoretical computer science, and serving as an
+undergraduate Course Assistant for both Algorithms and Data Structures. I have taken coursework
+in Data Science, Cybersecurity, Operating Systems, and Network Systems, and written clean,
+modular code in a wide variety of languages: I have analyzed massive amounts of data with
+Python, and built multi-threaded TCP proxy servers from scratch in C. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my coursework, I also have real-world industry experience. Within my first week as
+an intern at SARA, a defense contracting firm in Colorado Springs, I patched critical bugs in my
+team's flagship product, and my code was quickly shipped to production. Additionally during my
+time at SARA, I constructed an MS SQL-Server database from scratch, and wrote a Python program
+to migrate a huge amount of data to this database from text files.
+
+I am looking forward to joining the workforce full-time, where I am eager to continue developing
+my skills as a software engineer.
