@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Andy Rittenhouse
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 23 September
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's of Science, Computer Science
+      institution: University of Colorado, Boulder
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Learning Assistant, Data Structures
+        - Course Assistant, Algorithms 
+        - title: Senior Capstone Team Lead, Trimble Autonomy
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Researched and developed a multi-radar odometry algorithm in Python for autonomous construction machinery, using least-squares linear
+regression and RANSAC outlier rejection.
+            - Lead weekly team meetings, records meeting minutes, published weekly project status updates, maintained a central project planning
+document, and assigned tasks to project team members.
+
 
 - title: Experience
   type: time_table
