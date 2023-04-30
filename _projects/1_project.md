@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Radar Odometry
 description: a project with a background image
-img: assets/img/dynapack.jpg
+img: assets/img/dynapack.png
 importance: 1
 category: work
 ---
