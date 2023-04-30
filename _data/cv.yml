@@ -45,50 +45,33 @@
         - Designed official 11th Wing Mission Brief, prepared 11th Wing Commander to brief the Chief of the Indian Air Force and 40 staff.
         - Arranged 70th Air Force Birthday Week staffing for three major events, including an air power demonstration attended by POTUS.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Nuclear and Presidential Security
+      institution: United States Air Force, Various Positions
+      year: 2012 - 2017
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Oversaw entry control and physical security requirements for Air Force One Maintenance and Support Complex.
+        - Supervised five security posts; patrolled and directed security and alarm checks. Identified, resolved, and reported discrepancies in Presidential areas and facilities. Prepared defenders to defeat a full spectrum of threats.
+        - Delivered on-scene command & control, responded to alarms and security incidents; protected >$3.9 billion in Presidential assets.
+        - Supervised, mentored, and evaluated two Airmen to meet flight objectives and individual Air Force standards.
+        - Performed duties as nuclear security controller and response team member, ensuring the security of US nuclear warheads. 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - September National Capital Region Defender of the Month
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Complexity
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Completed research project on Ladner's theorem and the NP-Intermediate complexity class
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Bird watching, Chess, Pickle Ball, Disk Golf, Rock Climbing, Yoga, Weight Lifting.
