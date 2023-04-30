@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aritt0923
 
 github_repos:
+  - aritt0923/network_systems
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
