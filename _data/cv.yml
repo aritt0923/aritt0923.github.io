@@ -31,18 +31,26 @@ document, and assigned tasks to project team members.
       institution: Scientific Applications and Research Associates (SARA)
       year: Summer 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Implemented critical bug-fixes in C++ for the Shielding Effectiveness Automated Monitoring System (SEAMS)
+        - Re-wrote an out-of-date PERL program in Python, greatly improving modularity, readability, and maintainability.
+        - title: Developed a proof-of-concept MS-SQL Server database for large-scale EMP test data and wrote a well-documented Python program to
+migrate existing data from text files to the database.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Presented the Python program and SQL Server DB to a team of engineers, reviewing program functionality and enabling the team to
+implement the database at scale.
+
+    - title: Non-Commissioned Officer in Charge, Commander's Action Group
+      institution: United States Air Force, Joint Base Andrews
+      year: 2017-2018
       description:
-        - Description 1.
-        - Description 2.
+        - Managed Wing awards program operations and communications, ensuring award announcements and nominations were advertised and
+processed appropriately.
+        - Directed base Department of Defense Special Observances, organizing diversity and inclusion initiatives for observances including Black
+History Month, Hispanic Heritage Month, and LGBTQ Pride month.
+        - Owned Wing Strategic Calendar, advising 11 WG/CC and de-conflicting all strategic events. Planned and constructed quarterly 11th Wing
+Commander's Calls for two thousand attending Airmen
+        - Designed official 11th Wing Mission Brief, prepared 11th Wing Commander to brief the Chief of the Indian Air Force and 40 staff.
+        - Arranged 70th Air Force Birthday Week staffing for three major events, including an air power demonstration attended by POTUS.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
