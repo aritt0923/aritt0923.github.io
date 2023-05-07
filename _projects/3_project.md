@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Threaded, Caching TCP Proxy Server
 description: Assignment for Network Systems
-img: assets/img/7.jpg
+img: assets/img/proxy_serv.png
 importance: 3
 category: work
 ---
