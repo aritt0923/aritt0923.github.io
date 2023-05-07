@@ -7,16 +7,6 @@ importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+CSCI 1300: Introduction to Computing was my first real programming class. We learned how to write in C++, and covered a wide range of introductory topics, from basic data structures, to pointers, to introductory OOP concepts. This program is written in C++ and makes use of the language's oject-oriented features. The program is neatly broken up into several maintainable files, and the code is organized into classes for clarity and modularity. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+Functionally, the program implements some basic features from the popular social media platform "Twitter". The user interacts with the program via the command line interface, and is able to create accounts, follow other users, and publish Tweets. The state of the program is saved to a file which can be read in the next time the program is run. I'm proud of this project - I had only been programming for a few months at the point I wrote this code, and the end result turned out pretty well. 
