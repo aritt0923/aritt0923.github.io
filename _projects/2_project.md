@@ -2,7 +2,7 @@
 layout: page
 title: Command Line Twitter
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/cmd_line_twit.png
 importance: 2
 category: work
 ---
