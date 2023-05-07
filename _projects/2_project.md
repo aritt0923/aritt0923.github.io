@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Command Line Twitter
-description: a project with a background image
+description: My First Real Computer Science Project
 img: assets/img/cmd_line_twit.png
 importance: 2
 category: work
